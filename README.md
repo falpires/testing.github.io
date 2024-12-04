@@ -1,4 +1,4 @@
-# Python sample app using pip package manager
+### Python sample app using pip package manager
 
 ## Building
 
@@ -13,5 +13,3 @@ asas
 `curl http://localhost:8080`
 test test
 
-
-as
